@@ -8,9 +8,9 @@
         В связи с тем что данная страница является шаблонам. Некоторые ссылки могут не работать.
 ## Стек технологий примененный при разработке шаблона
 
-*   jQuery
-*   ES5
-*   [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid)
+*   [ECMAScript 5](http://es5.github.io/)
+*   [jQuery](https://jquery-docs.ru/)
+*   [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid)
 *   [slider slick](https://kenwheeler.github.io/slick/)
 
 ##  Тесты    
